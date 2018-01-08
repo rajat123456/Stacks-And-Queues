@@ -63,7 +63,7 @@ class Stack
 	  int choice;
 	  do
 	  {
-	  System.out.println("Enter your choice->/t 1)Push /n 2) Pop /n 3) Peek");
+	  System.out.println("Enter your choice->/t 1)Push 2) Pop 3) Peek 4) Retrieve 5) Exit");
 	  Scanner sc=new Scanner(System.in);
 	  
 	  choice=sc.nextInt();
