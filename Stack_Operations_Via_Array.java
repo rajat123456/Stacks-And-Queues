@@ -1,4 +1,4 @@
-package freshly;
+//Stack Operations Via Array namely-> Push, Pop, Peek
 
 import java.util.Scanner;
 
